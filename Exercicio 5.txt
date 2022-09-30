@@ -1,0 +1,26 @@
+Questão 1 
+
+f
+f
+v
+f
+v
+v
+
+Questão 2 
+
+A
+
+Questão 3
+
+A
+
+Questão 4 
+
+B
+
+Questão 6
+
+Erro - instanciando objeto classe abstrata 
+
+
